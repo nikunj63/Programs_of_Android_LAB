@@ -1,0 +1,19 @@
+<resources>
+    <!-- Background color for the main layout -->
+    <color name="background_color">#FFFFFF</color> <!-- Example: White -->
+
+    <!-- Text color for the title TextView -->
+    <color name="primary_color">#000000</color> <!-- Example: Black -->
+
+    <!-- Text color for the EditText input text -->
+    <color name="primary_text_color">#333333</color> <!-- Example: Dark Gray -->
+
+    <!-- Background color for the EditText field -->
+    <color name="input_background">#F0F0F0</color> <!-- Example: Light Gray -->
+
+    <!-- Text color for the Button -->
+    <color name="button_text_color">#FFFFFF</color> <!-- Example: White -->
+
+    <!-- Background color for the Button -->
+    <color name="button_color">#3F51B5</color> <!-- Example: Indigo -->
+</resources>
